@@ -2,7 +2,7 @@
 """
 Created on Wed Apr 25 14:45:38 2018
 
-@author: lieka
+@author: kantithat_kanfung
 """
 
 # -- import modules --
