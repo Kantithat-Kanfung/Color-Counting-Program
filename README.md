@@ -8,7 +8,7 @@ It can detected colors and counting color at pass line middle of program precise
 ## Manuscript
 [https://www.youtube.com/watch?v=aEcBnD80nLg](https://www.youtube.com/watch?v=aEcBnD80nLg)
 
-## Githup 
+## Github
 [https://github.com/Gupu25/PeopleCounter](https://github.com/Gupu25/PeopleCounter)
 
 
